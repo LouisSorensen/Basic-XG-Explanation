@@ -1,0 +1,26 @@
+
+h1, p {
+    text-align: center;
+    
+}
+
+p {
+    font-size: 25px;
+    color:darkblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.imageContainer {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.image {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    
+}
